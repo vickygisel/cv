@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #182153; font-family: 'Nunito', sans-serif; font-size: 16px; color: #222;}
+html, body {background: #0D4D4D; font-family: 'Nunito', sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -33,7 +33,7 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #182153;
+	border-bottom: 2px solid #0D4D4D;
 	background: #ededed;
 }
 
@@ -41,7 +41,7 @@ p {
 	font-size: 1.8em;
 	font-weight: 400;
 	font-family: 'Nunito', sans-serif;
-    color: #182153;
+    color: #0D4D4D;
 	margin-bottom: -6px;
 }
 
@@ -49,9 +49,9 @@ p {
 	font-size: 1em;
 	margin-left: 2px;
     margin-top: 10px;
-	font-weight: 300;
+	font-weight: 600;
 	font-family: 'Nunito', sans-serif;
-    color: #182153;
+    color: #0D4D4D;
 }
 
 #mainArea {
@@ -133,14 +133,14 @@ section:last-child {
 	font-family: 'Nunito', sans-serif;
 	font-style: italic;
 	font-size: 1.2em;
-	color: #182153;;
+	color: #0D4D4D;;
 }
 
 .sectionContent h2 {
 	font-family: 'Nunito', sans-serif;
 	font-size: 1em;
 	margin-bottom: -2px;
-    color: #182153;
+    color: #0D4D4D;
 }
 
 .subDetails {
