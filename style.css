@@ -46,10 +46,11 @@ p {
 }
 
 #name h2 {
-	font-size: 1em;
+	font-size: 1.2em;
 	margin-left: 2px;
     margin-top: 10px;
-	font-weight: 400;
+    margin-bottom: 6px;
+	font-weight: 500;
 	font-family: 'Lora', serif;
     color: #0D4D4D;
 }
@@ -133,6 +134,7 @@ section:last-child {
 	font-family: 'Lora', serif;
     font-weight: 500;
 	font-style: italic;
+    margin-bottom: 2px;
 	font-size: 1.2em;
 	color: #0D4D4D;;
 }
@@ -141,14 +143,14 @@ section:last-child {
 	font-family: 'Lora', serif;
     font-weight: 600;
 	font-size: 1em;
-	margin-bottom: -2px;
+	margin-bottom: 2px;
     color: #0D4D4D;
 }
 
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
-	margin-bottom: 3px;
+	margin-bottom: 5px;
 }
 
 .keySkills {
