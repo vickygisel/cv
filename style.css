@@ -38,7 +38,7 @@ p {
 }
 
 #name h1 {
-	font-size: 1.8em;
+	font-size: 2em;
 	font-weight: 500;
 	font-family: 'Lora', serif;
     color: #0D4D4D;
@@ -139,6 +139,7 @@ section:last-child {
 
 .sectionContent h2 {
 	font-family: 'Lora', serif;
+    font-weight: 600;
 	font-size: 1em;
 	margin-bottom: -2px;
     color: #0D4D4D;
