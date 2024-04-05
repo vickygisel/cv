@@ -39,8 +39,8 @@ p {
 
 #name h1 {
 	font-size: 1.8em;
-	font-weight: 400;
-	font-family: 'Nunito', sans-serif;
+	font-weight: 500;
+	font-family: 'Lora', serif;
     color: #0D4D4D;
 	margin-bottom: -6px;
 }
@@ -49,8 +49,8 @@ p {
 	font-size: 1em;
 	margin-left: 2px;
     margin-top: 10px;
-	font-weight: 600;
-	font-family: 'Nunito', sans-serif;
+	font-weight: 400;
+	font-family: 'Lora', serif;
     color: #0D4D4D;
 }
 
@@ -130,14 +130,15 @@ section:last-child {
 }
 
 .sectionTitle h1 {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Lora', serif;
+    font-weight: 500;
 	font-style: italic;
 	font-size: 1.2em;
 	color: #0D4D4D;;
 }
 
 .sectionContent h2 {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Lora', serif;
 	font-size: 1em;
 	margin-bottom: -2px;
     color: #0D4D4D;
