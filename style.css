@@ -11,7 +11,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 display:block;
 }
 
-html, body {background: #0D4D4D; font-family: 'Nunito', sans-serif; font-size: 16px; color: #222;}
+html, body {background: #464838; font-family: 'Nunito', sans-serif; font-size: 16px; color: #222;}
 
 .clear {clear: both;}
 
@@ -33,15 +33,15 @@ p {
 
 .mainDetails {
 	padding: 25px 35px;
-	border-bottom: 2px solid #0D4D4D;
+	border-bottom: 2px solid #464838;
 	background: #ededed;
 }
 
 #name h1 {
 	font-size: 2em;
-	font-weight: 500;
+	font-weight: 3f00;
 	font-family: 'Lora', serif;
-    color: #0D4D4D;
+    color: #6E7F40;
 	margin-bottom: -6px;
 }
 
@@ -52,7 +52,7 @@ p {
     margin-bottom: 6px;
 	font-weight: 500;
 	font-family: 'Lora', serif;
-    color: #0D4D4D;
+    color: #6E7F40;
 }
 
 #mainArea {
@@ -103,7 +103,7 @@ p {
 }
 
 #contactDetails ul li a:hover {
-	color: #31708e;
+	color: #6E7F40;
 }
 
 
@@ -136,7 +136,7 @@ section:last-child {
 	font-style: italic;
     margin-bottom: 2px;
 	font-size: 1.2em;
-	color: #0D4D4D;;
+	color: #6E7F40;;
 }
 
 .sectionContent h2 {
@@ -144,13 +144,19 @@ section:last-child {
     font-weight: 600;
 	font-size: 1em;
 	margin-bottom: 2px;
-    color: #0D4D4D;
+    color: #464838;
 }
 
 .subDetails {
 	font-size: 0.8em;
 	font-style: italic;
 	margin-bottom: 5px;
+}
+
+.link {
+	font-size: 0.8em;
+	font-style: italic;
+    margin-top: -15px;
 }
 
 .keySkills {
